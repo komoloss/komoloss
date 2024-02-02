@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ali Kamali</h1>
+<h1 align="center">Hi 🖐, I'm Ali Kamali</h1>
 <h3 align="center">A passionate Product Manager from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komoloss&label=Profile%20views&color=0e75b6&style=flat" alt="komoloss" /> </p>
 
-- 🔭 I’m currently working on **chat app**
+-  I’m currently working on **chat app**
 
-- 🌱 I’m currently learning **Python,ReactNative,ML**
+-  I’m currently learning **Python,ReactNative,ML**
 
-- 👨‍💻 All of my projects are available at [codetoproducts.com](codetoproducts.com)
+-  All of my projects are available at [codetoproducts.com](codetoproducts.com)
 
-- 💬 Ask me about **Product Managing**
+-  Ask me about **Product Managing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
