@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komoloss&show_icons=true&locale=en" alt="komoloss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komoloss&" alt="komoloss" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=komoloss&theme=dark)](https://git.io/streak-stats)" alt="komoloss" /></p>
